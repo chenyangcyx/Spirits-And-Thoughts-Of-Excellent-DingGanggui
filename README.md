@@ -1,6 +1,6 @@
 # Spirits-And-Thoughts-Of-Excellent-DingGanggui<br>《优秀的丁港归同学精神思想》
 作者：全宇宙igui联合会<br><br>
-让我们 i:sparkling_heart:gui 一起守护全宇宙最优秀的丁港归同学！:sparkles::sparkles:><br>
+让我们 i:sparkling_heart:gui 一起守护全宇宙最优秀的丁港归同学！:sparkles::sparkles:<br>
 
 <br>
 
