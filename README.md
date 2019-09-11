@@ -1,6 +1,6 @@
 # Spirits-And-Thoughts-Of-Excellent-DingGanggui<br>《优秀的丁港归同学精神思想》
-<font size=5>作者：全宇宙igui联合会</font><br><br>
-<font size=4>让我们 i:sparkling_heart:gui 一起守护全宇宙最优秀的丁港归同学！:sparkles::sparkles:></font><br>
+作者：全宇宙igui联合会<br><br>
+让我们 i:sparkling_heart:gui 一起守护全宇宙最优秀的丁港归同学！:sparkles::sparkles:><br>
 
 <br>
 
@@ -63,5 +63,5 @@ git push -u origin master
 <br><br>
 
 # 写在最后
-<font size=5>优秀的丁港归同学精神思想是全宇宙最深奥、最奇妙、最精彩、最晦涩难懂的精神思想，对他的解读需要一代又一代人持之以恒的不懈努力！<br>让我们一起努力，不忘初心，砥砺前行！</font><br><br><br>
-<font size=7>丁港归同学太优秀了！</font>
+优秀的丁港归同学精神思想是全宇宙最深奥、最奇妙、最精彩、最晦涩难懂的精神思想，对他的解读需要一代又一代人持之以恒的不懈努力！<br>让我们一起努力，不忘初心，砥砺前行！<br><br><br>
+丁港归同学太优秀了！
