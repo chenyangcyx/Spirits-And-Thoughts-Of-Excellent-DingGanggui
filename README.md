@@ -65,23 +65,19 @@
 ② 在LocalPath下新建学习文件夹<br>
 ③ 在Git中键入如下命令：
 ```
-cd Your_LocalPath
-git init
-git clone repository_url
+cd LocalPath
+git clone https://github.com/chenyangcyx/Spirits-And-Thoughts-Of-Excellent-DingGanggui.git
 ```
 ## 2、如何与优秀的丁港归同学精神思想保持一致？
 ① 关注并Star该Repository<br>
 ② 对于已经Fork过的项目：
 ```
-git remote add sprits https://github.com/chenyangcyx/Spirits-And-Thoughts-Of-Excellent-DingGanggui.git
-git fetch sprits
-git remote -v
-git checkout master
-git merge sprits/master
+cd LocalPath
+git pull
 ```
 如果有冲突的话，需要先丢弃本地的仓库
 ```
-git reset -hard sprits/master
+git reset -hard Spirits-And-Thoughts-Of-Excellent-DingGanggui/master
 ```
 ## 3、如何发布自己的感想？
 ```
