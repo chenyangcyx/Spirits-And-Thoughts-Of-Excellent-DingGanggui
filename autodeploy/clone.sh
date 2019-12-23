@@ -16,4 +16,5 @@ folder_newname='excellent-dggtk'
 
 cd $local_address
 git clone $git_url
-mv $folder_oldname $folder_newname
+cp -r $folder_oldname'/.' $folder_newname
+rm -rf $folder_oldname
