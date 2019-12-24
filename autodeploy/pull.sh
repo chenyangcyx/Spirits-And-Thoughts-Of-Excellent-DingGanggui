@@ -16,4 +16,5 @@ folder_name='excellent-dgg.tk'
 project_address=$local_address'/'$folder_name
 
 cd $project_address
+git reset --hard
 git pull
