@@ -11,7 +11,7 @@
 # 本地存放的文件目录地址
 local_address='/www/wwwroot'
 # 项目文件夹名称
-folder_name='excellent-dggtk'
+folder_name='excellent-dgg.tk'
 # 项目目录地址
 project_address=$local_address'/'$folder_name
 

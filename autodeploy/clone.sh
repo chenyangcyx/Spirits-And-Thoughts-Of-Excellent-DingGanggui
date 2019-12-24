@@ -19,7 +19,7 @@ local_address='/www/wwwroot'
 # 项目的原名称
 folder_oldname='Spirits-And-Thoughts-Of-Excellent-DingGanggui'
 # 要更改的项目名称
-folder_newname='excellent-dggtk'
+folder_newname='excellent-dgg.tk'
 
 cd $local_address
 git clone $git_url
