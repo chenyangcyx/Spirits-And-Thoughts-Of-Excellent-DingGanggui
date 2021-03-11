@@ -1,15 +1,15 @@
-- [**简介**](/jianjie)
+- [**简介**](/1jianjie)
 
-- [**igui组织**](/iguizuzhi)
+- [**igui组织**](/2iguizuzhi)
 
-- [**使用规范**](/shiyongguifan)
+- [**使用规范**](/3shiyongguifan)
 
-- [**思想概述**](/sixianggaishu)
+- [**思想概述**](/4sixianggaishu)
 
-- [**思想获取**](/sixianghuoqu)
+- [**思想内容**](/5sixiangneirong)
 
-- [**思想内容**](/sixiangneirong)
+- [**优秀事迹**](/6youxiushiji)
 
-- [**优秀事迹**](/youxiushiji)
+- [**思想获取**](/7sixianghuoqu)
 
-- [**更新历史**](/update_log)
+- [**更新历史**](/8update_log)

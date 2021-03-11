@@ -30,5 +30,5 @@ git push -u origin master
 ## 4、如何将自己的感想分享给他人？
 欢迎到GitHub中进行Create pull request并且Send，你的一小步将会是我们学习路上的一大步！我们期待你对于对我们尚有欠缺地方的修改以及对于优秀的丁港归同学精神思想的全新解读！
 
-<br><br>[下一章：思想内容](/sixiangneirong)<br>
+<br><br>[下一章：更新历史](/8update_log)<br>
 浏览更多内容请使用左侧**导航栏**，如没有请点击**左下方**图标呼出
